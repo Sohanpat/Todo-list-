@@ -1,0 +1,61 @@
+Welcome to My Todo List App!
+=============================
+
+--- Adding Tasks ---
+Added: "Buy milk"
+Added: "Buy eggs"
+Added: "Prepare a lesson for CSC 122"
+Added: "Sow beet seeds"
+Error: Cannot add an empty task!
+Error: Cannot add an empty task!
+
+=== ALL TASKS ===
+1. [ ] Buy milk
+2. [ ] Buy eggs
+3. [ ] Prepare a lesson for CSC 122
+4. [ ] Sow beet seeds
+
+--- Completing Tasks ---
+Completed: "Buy eggs"
+Error: Task "Buy oranges" not found!
+
+=== ALL TASKS ===
+1. [ ] Buy milk
+2. [X] Buy eggs
+3. [ ] Prepare a lesson for CSC 122
+4. [ ] Sow beet seeds
+
+
+=== COMPLETED TASKS ===
+1. [X] Buy eggs
+
+
+=== INCOMPLETE TASKS ===
+1. [ ] Buy milk
+2. [ ] Prepare a lesson for CSC 122
+3. [ ] Sow beet seeds
+
+--- Completing More Tasks ---
+Completed: "Buy milk"
+Completed: "Sow beet seeds"
+
+=== INCOMPLETE TASKS ===
+1. [ ] Prepare a lesson for CSC 122
+
+
+=== COMPLETED TASKS ===
+1. [X] Buy milk
+2. [X] Buy eggs
+3. [X] Sow beet seeds
+
+--- Clearing List ---
+Todo list has been cleared!
+
+=== ALL TASKS ===
+Your todo list is empty!
+
+--- Starting Fresh ---
+Added: "Learn Java inheritance"
+
+=== ALL TASKS ===
+1. [ ] Learn Java inheritance
